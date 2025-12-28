@@ -1,0 +1,27 @@
+# Core LangChain packages
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Groq LLM
+langchain-groq
+
+# HuggingFace embeddings
+langchain-huggingface
+sentence-transformers
+huggingface_hub
+
+# Chroma vectorstore
+langchain-chroma
+chromadb
+
+# Documents / PDFs
+pypdf
+
+# Streamlit UI
+streamlit
+ipykernel
+
+# Utilities
+python-dotenv
